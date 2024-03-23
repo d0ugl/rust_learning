@@ -16,7 +16,7 @@ Rust is a systems programming language focused on safety, speed, and concurrency
 
 ### Learning Resources
 
-*   [The Rust Programming Language Book (Brown University Experiment - version)](https://rust-book.cs.brown.edu/)
+*   [The Rust Programming Language Book (Brown University - Experiment version)](https://rust-book.cs.brown.edu/)
 *   [Rust by Example](https://doc.rust-lang.org/rust-by-example/index.html)
 *   [Rustlings - Small exercises to get you used to reading and writing Rust code](https://github.com/rust-lang/rustlings/)
 
